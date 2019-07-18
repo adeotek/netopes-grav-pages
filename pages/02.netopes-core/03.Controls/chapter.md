@@ -1,5 +1,5 @@
 ---
-title: 'Controls: form elements classes'
+title: 'Controls - form elements PHP classes'
 published: true
 ---
 
