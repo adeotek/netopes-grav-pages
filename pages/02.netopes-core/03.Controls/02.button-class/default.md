@@ -1,8 +1,6 @@
 ---
-title: 'Button'
-taxonomy:
-    category: docs
-routable: true
+title: 'Control class'
+visible: true
 ---
 
 #Button class
