@@ -1,5 +1,5 @@
 ---
-title: 'Button control class'
+title: 'Button'
 visible: true
 ---
 
@@ -14,4 +14,4 @@ echo $var->Show();
 
 ##Options list
 
-- 'tag_id'
+- 'tooltip'
