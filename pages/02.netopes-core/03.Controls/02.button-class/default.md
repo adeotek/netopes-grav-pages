@@ -1,5 +1,5 @@
 ---
-title: 'Control class'
+title: 'Button control class'
 visible: true
 ---
 
