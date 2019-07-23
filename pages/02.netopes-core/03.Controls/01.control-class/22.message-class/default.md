@@ -1,15 +1,15 @@
 ---
-title: Button
+title: Message
 visible: true
 ---
 
-##Button class
+##Message class
 Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new Message([options...]);
 echo $var->Show();
 </pre>
 

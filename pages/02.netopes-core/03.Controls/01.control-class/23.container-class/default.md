@@ -1,15 +1,15 @@
 ---
-title: Button
+title: Container
 visible: true
 ---
 
-##Button class
+##Container class
 Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new Container([options...]);
 echo $var->Show();
 </pre>
 

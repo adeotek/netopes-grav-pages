@@ -1,15 +1,15 @@
 ---
-title: Button
+title: CustomControl
 visible: true
 ---
 
-##Button class
+##CustomControl class
 Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new CustomControl([options...]);
 echo $var->Show();
 </pre>
 

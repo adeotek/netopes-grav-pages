@@ -1,15 +1,15 @@
 ---
-title: Button
+title: EditBox
 visible: true
 ---
 
-##Button class
+##EditBox class
 Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new EditBox([options...]);
 echo $var->Show();
 </pre>
 

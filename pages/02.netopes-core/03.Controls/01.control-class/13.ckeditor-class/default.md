@@ -1,15 +1,15 @@
 ---
-title: EditBox
+title: CkEditor
 visible: true
 ---
 
-##EditBox class
+##CkEditor class
 Class used for rendering HTML textarea.
 
 
 ###Sample code
 <pre>
-$var = new EditBox([options...]);
+$var = new CkEditor([options...]);
 echo $var->Show();
 </pre>
 

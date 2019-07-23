@@ -1,15 +1,15 @@
 ---
-title: Button
+title: HiddenInput
 visible: true
 ---
 
-##Button class
+##HiddenInput class
 Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new HiddenInput([options...]);
 echo $var->Show();
 </pre>
 

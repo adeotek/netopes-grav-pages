@@ -9,7 +9,7 @@ Class used for rendering HTML buttons (&lt;button&gt;&lt;/button&gt;).
 
 ###Sample code
 <pre>
-$var = new Button([button options...]);
+$var = new Button([options...]);
 echo $var->Show();
 </pre>
 

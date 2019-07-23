@@ -9,7 +9,7 @@ Class used for rendering HTML div buttons (&lt;div&gt;&lt;/div&gt;).
 
 ###Sample code
 <pre>
-$var = new DivButton([button options...]);
+$var = new DivButton([options...]);
 echo $var->Show();
 </pre>
 
