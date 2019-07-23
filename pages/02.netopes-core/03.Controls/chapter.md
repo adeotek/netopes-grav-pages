@@ -1,6 +1,7 @@
 ---
-title: 'Controls - form elements PHP classes'
+title: 'Forms Controls classes'
 published: true
 ---
 
-Most controls classes extend the base control class: **Control**
+##Base forms controls 
+All classes that extends **Control** abstract class.
