@@ -21,4 +21,4 @@ echo $var->Show();
 
 ###Important remarks
 
-- Do not use as AJAX parameter the 'type' key (internally used to establish return data format: JSON/string/...) 
+- Do not use as AJAX parameter the '**type**' key (internally used to establish return data format: JSON/string/...) 

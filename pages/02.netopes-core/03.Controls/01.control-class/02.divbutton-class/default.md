@@ -3,7 +3,7 @@ title: DivButton
 visible: true
 ---
 
-##Button class
+##DivButton class
 Class used for rendering HTML div buttons (&lt;div&gt;&lt;/div&gt;).
 
 
