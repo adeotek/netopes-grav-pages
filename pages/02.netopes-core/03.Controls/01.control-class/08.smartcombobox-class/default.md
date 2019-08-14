@@ -16,7 +16,8 @@ echo $var->Show();
 
 ###Options list
 
-- ''
+- 'placeholder': Text to be displayed when empty
+- 
 
 
 ###Important remarks
