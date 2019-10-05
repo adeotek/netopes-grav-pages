@@ -29,3 +29,16 @@ echo $var->Show();
 $var = new Button(['class'=>NApp::$theme->GetBtnPrimaryClass('extra-css-class'),other options...]);
 </pre>
 You can use only buttons types defined in the global application theme (class implementing ITheme interface)
+
+
+###Example
+
+<pre>
+$button=new Button([
+    'value'=>Translate::GetButton('translation_tag'),
+    'class'=>NApp::$theme->GetBtnDefaultClass(),
+    'icon'=>'fa fa-chevron-left',
+    'onclick'=>"alert('Button click!')",
+]);
+echo $button->Show();
+</pre>
